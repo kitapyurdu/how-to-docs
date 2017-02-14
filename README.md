@@ -1,2 +1,7 @@
 # how-to-docs
-This repo contains our public how-to documents.
+
+This repository contains our public how-to documents. These documents consist of solutions to our problems which we occurred at day-to-day development operations. Also this file is something like table of contents and contains brief descriptions of each file at this repository.
+
+### Upgrade to PHP7 on CentOS
+
+ *todo: sinan.argun* 
