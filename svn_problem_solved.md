@@ -8,4 +8,4 @@ Eğer bütün dosyaları göndermek istemiyorsanız (nbproject dosyası gibi) ve
   Daha sonra "svn st" ile tekrar dosyalarınızı kontrol edebilirsiniz.
 
 
-<b>Not : </b> Bu dokuman güncellenecektir. 
+<b>Not : </b> Bu dokuman güncellenecektir.  
