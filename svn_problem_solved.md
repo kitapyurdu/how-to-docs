@@ -1,11 +1,12 @@
 # svn add * işlemini geri alama
 
-"svn add file_name"  şeklinde kullanmamız gerekirken " svn add  * "  şeklinde yanlış bir kullanım yaptığımızda bütün dosyaları commit için ekleyecektir.
+<b>svn add file_name</b>  şeklinde kullanmamız gerekirken <b> svn add  * </b>  şeklinde yanlış bir kullanım yaptığımızda bütün dosyaları commit için ekleyecektir.
 
 Eğer bütün dosyaları göndermek istemiyorsanız (nbproject dosyası gibi) ve bu işlemi geri almak istiyorsanız :
-  - svn delete --keep-local file_name yazarak bu işlemi geri alabilirsiniz.
 
-  Daha sonra "svn st" ile tekrar dosyalarınızı kontrol edebilirsiniz.
+> <i>svn delete --keep-local path</i>  
+
+yazarak bu işlemi geri alabilirsiniz. Daha sonra <b>svn st</b> ile tekrar dosyalarınızı kontrol edebilirsiniz.
 
 
-<b>Not : </b> Bu doküman güncellenecektir. 
+<b>Not : </b> Bu doküman güncellenecektir.
