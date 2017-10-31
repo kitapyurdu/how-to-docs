@@ -4,4 +4,4 @@ This repository contains our public how-to documents. These documents consist of
 
 # Table of Contents
 *   [Svn ](#ast)
-    *   [svn add * - "undo"](tree/master/svn/svn_problem_solved.md)
+    *   [svn add * - "undo"](svn/svn_problem_solved.md)
