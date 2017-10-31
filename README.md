@@ -3,5 +3,5 @@
 This repository contains our public how-to documents. These documents consist of solutions to our problems which we occurred at day-to-day development operations. Also this file is something like table of contents and contains brief descriptions of each file at this repository.
 
 # Table of Contents
-*   [Svn ](#root)
-    *   [svn add * işlemini geri almak ](svn/svn_problem_solved.md)
+*   [Svn ](#ast)
+    *   [svn add * - "undo"](svn/svn_problem_solved.md)
