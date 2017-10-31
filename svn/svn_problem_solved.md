@@ -2,9 +2,10 @@
 
 <b>svn add file_name</b>  şeklinde kullanmamız gerekirken <b> svn add  * </b>  şeklinde yanlış bir kullanım yaptığımızda bütün dosyaları commit için ekleyecektir.
 
+
 Eğer bütün dosyaları göndermek istemiyorsanız (nbproject dosyası gibi) ve bu işlemi geri almak istiyorsanız :
 
-> <i>svn delete --keep-local path</i>  
+> svn delete --keep-local nbproject  
 
 yazarak bu işlemi geri alabilirsiniz.
 
