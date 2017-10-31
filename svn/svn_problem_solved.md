@@ -15,6 +15,3 @@ Daha sonra <b>svn st</b> ile tekrar dosyalarınızı kontrol edebilirsiniz.
 
 
 <b>Not : </b> Bu doküman güncellenecektir.
-
-
-[Svn](svn/svn_problem_solved.md)
