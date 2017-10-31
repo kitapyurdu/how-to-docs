@@ -17,4 +17,4 @@ Daha sonra <b>svn st</b> ile tekrar dosyalarınızı kontrol edebilirsiniz.
 <b>Not : </b> Bu doküman güncellenecektir.
 
 
-[Svn](blob/master/svn/svn_problem_solved.md)
+[Svn](master/svn/svn_problem_solved.md)
