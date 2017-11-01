@@ -12,6 +12,3 @@ yazarak bu işlemi geri alabilirsiniz.
 Bu işlem yerel dosyaları koruyup sadece svn deposundan eklenen dosyaları kaldırır.
 
 Daha sonra <b>svn st</b> ile tekrar dosyalarınızı kontrol edebilirsiniz.
-
-
-<b>Not : </b> Bu doküman güncellenecektir.
