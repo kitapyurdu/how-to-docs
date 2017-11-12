@@ -1,6 +1,6 @@
 # svn add * işlemini geri alma
 
-<b>*svn add file_name*</b>  şeklinde kullanmamız gerekirken <b>*svn add **</b>  şeklinde yanlış bir kullanım yaptığımızda bütün dosyaları commit için ekleyecektir.
+<b>*svn add file_name*</b>  şeklinde kullanmamız gerekirken <b>*```svn add *```*</b>  şeklinde yanlış bir kullanım yaptığımızda bütün dosyaları commit için ekleyecektir.
 
 
 Eğer bütün dosyaları göndermek istemiyorsanız (nbproject dosyası gibi) ve bu işlemi geri almak istiyorsanız:
